@@ -1,0 +1,21 @@
+{
+    "bot_token": "MTA3NTU3MTE2MTAyNDQzODMyMg.G1XayG.Y1cejc_7tB5EcDji5t53rNxwzwygUjuElWWovM",
+    "prefix": "/",
+    "use_proxy": false,
+    "dont_change": false,
+    "bot_channel1": 1138605225855426630,
+    "bot_channel2": 1138605225855426630,
+    "role1": "User",
+    "role2": "Bronze",
+    "role3": "Silver",
+    "role4": "Gold",
+    "role5": "Premium",
+    "role6": "Premium +",
+    "default_amount": 25,
+    "role1_amount": 50,
+    "role2_amount": 80,
+    "role3_amount": 120,
+    "role4_amount": 180,
+    "role5_amount": 300,
+    "role6_amount": 500
+}
